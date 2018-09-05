@@ -27,5 +27,12 @@ ggggg
 
 
 zzzzzzz
+<<<<<<< HEAD
 
 ddddd
+=======
+dddddd
+
+
+xxxx
+>>>>>>> master
