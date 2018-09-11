@@ -37,5 +37,9 @@ dddddd
 xxxx
 >>>>>>> master
 
+<<<<<<< HEAD
 
 hhhhhh
+=======
+eeeeee
+>>>>>>> master
